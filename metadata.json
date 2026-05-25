@@ -1,0 +1,6 @@
+{
+  "name": "VPN KING",
+  "description": "High performance client displaying and connecting to verified fast public OpenVPN servers in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
